@@ -1,0 +1,5 @@
+# HSTS 1.0 Known Hosts database for GNU Wget.
+# Edit at your own risk.
+# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
+papermc.io	0	0	1619759185	15552000
+cdn.getbukkit.org	0	0	1619759039	15768000
